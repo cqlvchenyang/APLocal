@@ -8,5 +8,6 @@ public class Main {
 		AP ap=new AP("D:/test.txt");
 		ap.iterator(50);
 		ap.resultSAR("D:/testSAR.txt");
+		
 	}
 }
